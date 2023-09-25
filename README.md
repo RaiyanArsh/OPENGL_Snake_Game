@@ -17,3 +17,7 @@ The Snake game in OpenGL is a classic 2D arcade game where players control a sna
 ## Acknowledgments
 
 This code is based on the work of the contributor Raiyan Arsh.
+
+
+https://github.com/RaiyanArsh/OPENGL_Snake_Game/assets/122980943/cf069d98-2627-4778-a6de-2e4c48dc7219
+
